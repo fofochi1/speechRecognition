@@ -1,0 +1,29 @@
+h1, p, input {
+    font-family:'Akaya Telivigala', sans-serif ;
+}
+
+#speechContainer {
+    margin: 20px;
+}
+
+#submitButton{
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+    border: black;
+    padding: 10px 30px;
+    margin-top: 30px;
+}
+
+#submitButton:hover{
+    cursor: pointer;
+}
+
+#speechTranscriptContainer{
+    margin-top: 20px;
+}
+
+#speechText{
+    font-size: 20px;
+    width: 500px;
+}
